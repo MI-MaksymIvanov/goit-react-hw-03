@@ -19,7 +19,7 @@
   transition: border-color 0.3s;
 }
 
-.SearchBoxField:hover,
-.SearchBoxField:focus {
+.searchBoxField:hover,
+.searchBoxField:focus {
   border-color: #646cff;
 }
